@@ -18,4 +18,5 @@ This repo is structured as a [Cargo workspace](https://doc.rust-lang.org/book/ch
 I plan to make one crate or folder(as required) for each chapter, although it might change in the future.
 
 ### Chapters
-- [Chapter 1](./chapter_1)
+- [Chapter 1 - Foundations](./chapter_1)
+- [Chapter 2 - Types](./chapter_2)
