@@ -15,7 +15,7 @@ The Primary goal is to learn to use Rust **for Real**.
 
 This repo is structured as a [Cargo workspace](https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html), with multiple crates.
 
-I plan to make one crate for each chapter, although it might change in the future.
+I plan to make one crate or folder(as required) for each chapter, although it might change in the future.
 
 ### Chapters
 - [Chapter 1](./chapter_1)
