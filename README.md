@@ -20,3 +20,4 @@ I plan to make one crate or folder(as required) for each chapter, although it mi
 ### Chapters
 - [Chapter 1 - Foundations](./chapter_1)
 - [Chapter 2 - Types](./chapter_2)
+- [Chapter 3 - Designing Interfaces](./chapter_3)
